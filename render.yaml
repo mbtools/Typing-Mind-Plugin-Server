@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: typingmind
+    region: frankfurt # optional (defaults to oregon)
+    plan: starter # optional (defaults to starter)
+    env: docker
